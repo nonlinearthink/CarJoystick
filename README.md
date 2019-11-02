@@ -10,7 +10,7 @@ Yes, I'm using Android studio to develop this project, so you can definitely ope
 
 When you open the app, the first screen you see should look like this. 
 
-![homoPage](.\photo\homoPage.jpg)
+![homoPage](https://github.com/nonlinearthink/JoystickForCar/blob/master/photo/homoPage.jpg)
 
 This is a home page, you can see the basic direction key, on key, adjust speed. You can open the drawer bar on the side. 
 
@@ -20,7 +20,7 @@ At present, it has only two pages, setting page and about page. In fact, there i
 
 To enter the only setting page that actually exists, just long press it.
 
-![setting](.\photo\setting.jpg)
+![setting](https://github.com/nonlinearthink/JoystickForCar/blob/master/photo/setting.jpg)
 
 Here are some basic settings, maybe more in the future.
 
