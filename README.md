@@ -10,7 +10,7 @@ Yes, I'm using Android studio to develop this project, so you can definitely ope
 
 When you open the app, the first screen you see should look like this. 
 
-![homoPage](./photo/homoPage.jpg)
+<a href="./photo/homoPage.jpg">homoPage</a>
 
 This is a home page, you can see the basic direction key, on key, adjust speed. You can open the drawer bar on the side. 
 
