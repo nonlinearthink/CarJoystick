@@ -16,7 +16,7 @@ This is a home page, you can see the basic direction key, on key, adjust speed. 
 
 At present, it has only two pages, setting page and about page. In fact, there is only one. Because I'm too lazy to give a instance for a useless page -- about page.
 
-![drawer](.\photo\drawer.jpg)
+![drawer](https://github.com/nonlinearthink/JoystickForCar/blob/master/photo/drawer.jpg)
 
 To enter the only setting page that actually exists, just long press it.
 
